@@ -1,0 +1,23 @@
+{
+  "name": "nodewithazure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "azure": "^1.2.0-preview"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangyeolyoo/nodewithazure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangyeolyoo/nodewithazure/issues"
+  },
+  "homepage": "https://github.com/sangyeolyoo/nodewithazure#readme"
+}
